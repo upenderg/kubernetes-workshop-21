@@ -24,7 +24,7 @@ spec:
         run: kuberenetes-workshop-21-ugi
     spec:
       containers:
-      - image: gcr.io/kubernetes-workshop-21-ugi/upenderg/kubernetes-workshop-21:d1e53905a127f7417dd93470800e45f617248c5b
+      - image: gcr.io/kubernetes-workshop-21-ugi/upenderg/kubernetes-workshop-21:f0ccba5b29c84489d2cf54a1567fc5784c271ab8
         imagePullPolicy: IfNotPresent
         name: kuberenetes-workshop-21-ugi
         ports:
